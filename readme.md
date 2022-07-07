@@ -11,10 +11,10 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 ## First setup
 
 * Step 1. 
-  * **Downlaod and Install Docker** you can download it from [here](https://docs.docker.com/get-docker/)\.
+  * **Download and Install Docker** you can download it from [here](https://docs.docker.com/get-docker/)\.
 
 * Step 2.
-  * Verify your docker is ready by running the following commands in your
+  * Run the following commands in your terminal
   <br /> <br />
     ```
     docker -v
